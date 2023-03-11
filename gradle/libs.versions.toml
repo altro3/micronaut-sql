@@ -63,7 +63,7 @@ logback = "1.4.5"
 
 groovy = "4.0.6"
 testcontainers = "1.17.6"
-sonar-gradle-plugin = "3.5.0.2730"
+sonar-gradle-plugin = "4.0.0.2929"
 
 [libraries]
 
